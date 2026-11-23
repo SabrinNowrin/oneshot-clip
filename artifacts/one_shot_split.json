@@ -1,0 +1,174 @@
+{
+  "classes": [
+    "Bedroom",
+    "Coast",
+    "Flower",
+    "Forest",
+    "Highway",
+    "Industrial",
+    "InsideCity",
+    "Kitchen",
+    "LivingRoom",
+    "Mountain",
+    "Office",
+    "OpenCountry",
+    "Store",
+    "Street",
+    "Suburb",
+    "TallBuilding"
+  ],
+  "supports": {
+    "0": {
+      "Bedroom": [
+        "/content/data/train/Bedroom/image_0111.jpg"
+      ],
+      "Coast": [
+        "/content/data/train/Coast/image_0238.jpg"
+      ],
+      "Flower": [
+        "/content/data/train/Flower/image_0061.jpg"
+      ],
+      "Forest": [
+        "/content/data/train/Forest/image_0067.jpg"
+      ],
+      "Highway": [
+        "/content/data/train/Highway/image_0202.jpg"
+      ],
+      "Industrial": [
+        "/content/data/train/Industrial/image_0235.jpg"
+      ],
+      "InsideCity": [
+        "/content/data/train/InsideCity/image_0169.jpg"
+      ],
+      "Kitchen": [
+        "/content/data/train/Kitchen/image_0078.jpg"
+      ],
+      "LivingRoom": [
+        "/content/data/train/LivingRoom/image_0211.jpg"
+      ],
+      "Mountain": [
+        "/content/data/train/Mountain/image_0180.jpg"
+      ],
+      "Office": [
+        "/content/data/train/Office/image_0215.jpg"
+      ],
+      "OpenCountry": [
+        "/content/data/train/OpenCountry/image_0056.jpg"
+      ],
+      "Store": [
+        "/content/data/train/Store/image_0244.jpg"
+      ],
+      "Street": [
+        "/content/data/train/Street/image_0036.jpg"
+      ],
+      "Suburb": [
+        "/content/data/train/Suburb/image_0073.jpg"
+      ],
+      "TallBuilding": [
+        "/content/data/train/TallBuilding/image_0036.jpg"
+      ]
+    },
+    "1": {
+      "Bedroom": [
+        "/content/data/train/Bedroom/image_0035.jpg"
+      ],
+      "Coast": [
+        "/content/data/train/Coast/image_0345.jpg"
+      ],
+      "Flower": [
+        "/content/data/train/Flower/image_0067.jpg"
+      ],
+      "Forest": [
+        "/content/data/train/Forest/image_0066.jpg"
+      ],
+      "Highway": [
+        "/content/data/train/Highway/image_0031.jpg"
+      ],
+      "Industrial": [
+        "/content/data/train/Industrial/image_0249.jpg"
+      ],
+      "InsideCity": [
+        "/content/data/train/InsideCity/image_0212.jpg"
+      ],
+      "Kitchen": [
+        "/content/data/train/Kitchen/image_0152.jpg"
+      ],
+      "LivingRoom": [
+        "/content/data/train/LivingRoom/image_0149.jpg"
+      ],
+      "Mountain": [
+        "/content/data/train/Mountain/image_0054.jpg"
+      ],
+      "Office": [
+        "/content/data/train/Office/image_0025.jpg"
+      ],
+      "OpenCountry": [
+        "/content/data/train/OpenCountry/image_0300.jpg"
+      ],
+      "Store": [
+        "/content/data/train/Store/image_0008.jpg"
+      ],
+      "Street": [
+        "/content/data/train/Street/image_0152.jpg"
+      ],
+      "Suburb": [
+        "/content/data/train/Suburb/image_0133.jpg"
+      ],
+      "TallBuilding": [
+        "/content/data/train/TallBuilding/image_0001.jpg"
+      ]
+    },
+    "2": {
+      "Bedroom": [
+        "/content/data/train/Bedroom/image_0015.jpg"
+      ],
+      "Coast": [
+        "/content/data/train/Coast/image_0024.jpg"
+      ],
+      "Flower": [
+        "/content/data/train/Flower/image_0072.jpg"
+      ],
+      "Forest": [
+        "/content/data/train/Forest/image_0143.jpg"
+      ],
+      "Highway": [
+        "/content/data/train/Highway/image_0044.jpg"
+      ],
+      "Industrial": [
+        "/content/data/train/Industrial/image_0079.jpg"
+      ],
+      "InsideCity": [
+        "/content/data/train/InsideCity/image_0065.jpg"
+      ],
+      "Kitchen": [
+        "/content/data/train/Kitchen/image_0055.jpg"
+      ],
+      "LivingRoom": [
+        "/content/data/train/LivingRoom/image_0010.jpg"
+      ],
+      "Mountain": [
+        "/content/data/train/Mountain/image_0357.jpg"
+      ],
+      "Office": [
+        "/content/data/train/Office/image_0041.jpg"
+      ],
+      "OpenCountry": [
+        "/content/data/train/OpenCountry/image_0247.jpg"
+      ],
+      "Store": [
+        "/content/data/train/Store/image_0148.jpg"
+      ],
+      "Street": [
+        "/content/data/train/Street/image_0229.jpg"
+      ],
+      "Suburb": [
+        "/content/data/train/Suburb/image_0104.jpg"
+      ],
+      "TallBuilding": [
+        "/content/data/train/TallBuilding/image_0325.jpg"
+      ]
+    }
+  },
+  "eval_set": "test",
+  "n_eval": 400
+}
